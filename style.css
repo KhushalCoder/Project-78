@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(orange,blue,red);
+}
+
+#family{
+    width: 290px;
+}
+
+button{
+    font-size: 25px;
+ background-color: floralwhite;
+ border-radius: 20%;
+ color: black;
+}
+
+h1{
+    font-size: 40px;
+    color: darkgoldenrod;
+    text-decoration: underline;
+}
+
+h3{
+    font-size: 30px;
+    color: chartreuse;
+    font-weight: bold;
+    text-decoration: underline;
+}
